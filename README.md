@@ -1,4 +1,4 @@
-<img src="https://github.com/hassan-tahir/hassan-tahir.github.io/blob/main/images/hassan%20tahir%20logo.png" style="align: center;">
+<img src="https://github.com/hassan-tahir/hassan-tahir.github.io/blob/main/images/hassan%20tahir%20logo.png" align="center" height="200" width="600">
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
