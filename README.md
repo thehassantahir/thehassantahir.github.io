@@ -4,8 +4,8 @@
 
 ## Software Engineer | Security Tester | Researcher
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
-- 📚 I’m currently learning everything about Backend technologies. 
+- 👨‍💻 I’m currently working on Quantum and space sciences.
+- 📚 I’m currently learning everything about DML and Q#. 
 - 💪🏼 Future Goals: Make new technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I have a micro degree in python.
 
