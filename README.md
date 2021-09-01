@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Software Developer
+## Software Developer| Web Developer | Penetration Tester
 
 - 👨‍💻 I’m currently working on Quantum and space sciences.
 - 📚 I’m currently learning everything about DML and Q#. 
