@@ -4,7 +4,7 @@
 <img alt="Discord" src="https://img.shields.io/discord/885141541411250216?label=Discord&style=social">
   </div>
 <p align="center">  <img src="https://github.com/hassan-tahir/hassan-tahir.github.io/blob/main/images/hassan%20tahir%20logo.png"  height="150" width="500"></p>
-<h2 align="center">Software Engineer -- Penetration Tester</h2>
+<h2 align="center">Software Engineer - Penetration Tester</h2>
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
