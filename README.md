@@ -3,8 +3,8 @@
 <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthehassantahir">
 <img alt="Discord" src="https://img.shields.io/discord/885141541411250216?label=Discord&style=social">
   </div>
-<p align="center">  <img src="https://github.com/thehassantahir/webdeployment/blob/main/images/hassan%20tahir%20logo.png"  height="150" width="500"></p>
-<h2 align="center">Software Engineer - Penetration Tester</h2>
+<p align="center">  <img src="https://github.com/thehassantahir/garbage/blob/main/cover.jpg"  ></p>
+<!-- <h2 align="center">Software Engineer - Penetration Tester</h2> -->
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
