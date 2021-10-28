@@ -1,9 +1,9 @@
 <div align="center">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/hassan-tahir?label=Do%20Follow&style=social"> &nbsp;
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhassan_tahir_">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/thehassantahir?label=Do%20Follow&style=social"> &nbsp;
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fthehassantahir">
 <img alt="Discord" src="https://img.shields.io/discord/885141541411250216?label=Discord&style=social">
   </div>
-<p align="center">  <img src="https://github.com/hassan-tahir/hassan-tahir.github.io/blob/main/images/hassan%20tahir%20logo.png"  height="150" width="500"></p>
+<p align="center">  <img src="https://github.com/thehassantahir/webdeployment/blob/main/images/hassan%20tahir%20logo.png"  height="150" width="500"></p>
 <h2 align="center">Software Engineer - Penetration Tester</h2>
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
