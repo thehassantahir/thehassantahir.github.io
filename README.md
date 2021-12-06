@@ -3,7 +3,7 @@
 <img alt="Twitter URL" src="https://img.shields.io/twitter/follow/thehassantahir?style=for-the-badge">
 <img alt="lic" src="https://img.shields.io/github/license/thehassantahir/faceboom?style=for-the-badge">
   </div>
-<p align="center">  <a href="https://thehassantahir.web.app" target="_blank"><img src="https://github.com/thehassantahir/garbage/blob/main/cover.jpg"></a> </p>
+<p align="center">  <a href="https://thehassantahir.web.app" target="_blank"><img src="https://github.com/thehassantahir/thehassantahir/blob/main/cover.jpg"></a> </p>
 <!-- <h2 align="center">Software Engineer - Penetration Tester</h2> -->
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
